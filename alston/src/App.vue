@@ -21,7 +21,6 @@ export default {
 @font-face { font-family: RetroComputer; src: url("./fonts/retro_computer.ttf"); } 
 
 body {
-  height: 100vh;
   overflow-x: hidden;
   background-image: url("./img/backgrounds/bg0.jpg");
   background-size: cover;
