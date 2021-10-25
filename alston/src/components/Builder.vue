@@ -50,11 +50,11 @@ export default {
         },
         {
           name: "Tone 2",
-          url: require("@/assets/img/body/body2.png")
+          url: require("@/assets/img/body/body3.png")
         },
         {
           name: "Tone 3",
-          url: require("@/assets/img/body/body3.png")
+          url: require("@/assets/img/body/body2.png")
         },
         {
           name: "Tone 4",
