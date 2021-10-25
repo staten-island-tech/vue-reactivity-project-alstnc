@@ -22,7 +22,7 @@ export default {
 
 body {
   height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
   background-image: url("./img/backgrounds/bg0.jpg");
   background-size: cover;
   background-repeat: no-repeat;
