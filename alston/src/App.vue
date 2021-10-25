@@ -13,6 +13,9 @@ export default {
   name: 'App',
   components: {
     Builder
+  },
+  created () {
+    document.title = "RPG Character Creator";
   }
 }
 </script>
