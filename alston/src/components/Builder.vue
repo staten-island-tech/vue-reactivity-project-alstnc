@@ -500,6 +500,7 @@ export default {
     text-align: center;
     font-size: 30px;
     padding: 20px;
+    margin-bottom: 40px;
     font-family: 'RetroComputer';
     text-decoration: none; 
     color: white;
